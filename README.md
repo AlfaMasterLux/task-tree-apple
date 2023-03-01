@@ -7,4 +7,4 @@
 </p>
 
 Yii 2 Advanced для примера: читайте код и всё поймёте.
-<img src="https://github.com/AlfaMasterLux/task-tree-apple/view.png">
+![alt text](https://github.com/AlfaMasterLux/task-tree-apple/blob/master/view.png)
