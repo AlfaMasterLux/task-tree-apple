@@ -7,3 +7,4 @@
 </p>
 
 Yii 2 Advanced для примера: читайте код и всё поймёте.
+<img src="https://github.com/AlfaMasterLux/view.png">
