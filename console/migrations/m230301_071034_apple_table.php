@@ -2,10 +2,7 @@
 
 use yii\db\Migration;
 
-/**
- * Class m230301_070828_apple_table
- */
-class m230301_070828_apple_table extends Migration
+class m230301_071034_apple_table extends Migration
 {
     const TABLE_APPLE = 'apple';
     const TABLE_COLOR = 'color';
